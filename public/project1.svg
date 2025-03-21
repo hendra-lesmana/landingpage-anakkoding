@@ -1,0 +1,30 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- E-commerce Platform Illustration -->
+  <!-- Shopping Cart -->
+  <circle cx="400" cy="300" r="160" fill="#e2e8f0" stroke="#64748b" stroke-width="8"/>
+  
+  <!-- Cart Handle -->
+  <path d="M280 220 L520 220" stroke="#334155" stroke-width="12" stroke-linecap="round"/>
+  
+  <!-- Cart Body -->
+  <path d="M300 280 L500 280 L480 400 L320 400 Z" fill="#94a3b8" stroke="#334155" stroke-width="4"/>
+  
+  <!-- Items in Cart -->
+  <rect x="340" y="300" width="30" height="30" fill="#60a5fa" rx="5"/>
+  <rect x="385" y="300" width="30" height="30" fill="#34d399" rx="5"/>
+  <rect x="430" y="300" width="30" height="30" fill="#f472b6" rx="5"/>
+  
+  <!-- Payment Icons -->
+  <circle cx="340" cy="360" r="15" fill="#fbbf24"/>
+  <circle cx="385" cy="360" r="15" fill="#4f46e5"/>
+  <circle cx="430" cy="360" r="15" fill="#ec4899"/>
+  
+  <!-- Decorative Elements -->
+  <circle cx="200" cy="150" r="30" fill="#bfdbfe" opacity="0.5"/>
+  <circle cx="600" cy="450" r="40" fill="#ddd6fe" opacity="0.5"/>
+  <circle cx="150" cy="450" r="25" fill="#fae8ff" opacity="0.5"/>
+  <circle cx="650" cy="150" r="35" fill="#ccfbf1" opacity="0.5"/>
+</svg>
